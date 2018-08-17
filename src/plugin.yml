@@ -1,0 +1,13 @@
+name: UnlockPaid
+version: 1.3
+main: cn.minezone.slimeextend.UnlockPaid
+
+author: mcard
+
+loadbefore: [Slimefun]
+softdepend: [PointCommand,PlayerPoints,Vault]
+
+commands:
+  unlock:
+    usage: §a /unlock {name} (tip:You can use TAB)
+  gui:

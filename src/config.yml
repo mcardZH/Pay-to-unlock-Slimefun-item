@@ -1,0 +1,21 @@
+#物品名称（自动生成、无需填写）
+ORE_CRUSHER:
+
+  #物品名称（如果此项被忽略则会使用该物品的系统名称）
+  #已解锁的会显示绿色，未解锁的会显示红色
+  name: '碎矿机'
+  #显示的图标（ID），如果此项被忽略则会以石头为材质
+  item: 1
+
+  #未启用的无法通过此插件解锁
+  enable: true
+  #required-permissions:
+    #- 'example.permission'
+  #积分
+  point: 0
+  #点券
+  coupon: 0
+  #等级L
+  exp: 0
+  #金币
+  money: 0.0

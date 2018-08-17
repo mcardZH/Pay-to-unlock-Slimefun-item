@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="[粘液扩展]解锁花费">
+    <output-path>$PROJECT_DIR$/out/artifacts/__</output-path>
+    <root id="archive" name="[粘液扩展]解锁花费.jar">
+      <element id="module-output" name="[粘液扩展]解锁花费" />
+    </root>
+  </artifact>
+</component>
